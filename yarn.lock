@@ -5089,9 +5089,9 @@ eslint-plugin-prettier@^4.0.0:
     prettier-linter-helpers "^1.0.0"
 
 eslint-plugin-react-hooks@^4.0.4, eslint-plugin-react-hooks@^4.2.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.4.0.tgz#71c39e528764c848d8253e1aa2c7024ed505f6c4"
-  integrity sha512-U3RVIfdzJaeKDQKEJbz5p3NW8/L80PCATJAfuojwbaEL+gBjfGdhUcGde+WGUW46Q5sr/NgxevsIiDtNXrvZaQ==
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.6.0.tgz#4c3e697ad95b77e93f8646aaa1630c1ba607edd3"
+  integrity sha512-oFc7Itz9Qxh2x4gNHStv3BqJq54ExXmfC+a1NjAta66IAN87Wu0R/QArgIS9qKzX3dXKPI9H5crl9QchNMY9+g==
 
 eslint-plugin-react-native-globals@^0.1.1:
   version "0.1.2"
@@ -7037,9 +7037,9 @@ jest-jasmine2@^26.6.3:
     throat "^5.0.0"
 
 jest-junit@^10.0.0, jest-junit@^13.0.0:
-  version "13.1.0"
-  resolved "https://registry.yarnpkg.com/jest-junit/-/jest-junit-13.1.0.tgz#c364b90b88ad2492dae4002f00c9fed75e0590c4"
-  integrity sha512-ECbhzEG3Oe2IH3Mnwcv2vAXM4qTbcObN/gTUzwKPlpaNsf2G/zlj/teEUqRGV17YQiQ4AqzTf3pCO7W59DKVIw==
+  version "13.2.0"
+  resolved "https://registry.yarnpkg.com/jest-junit/-/jest-junit-13.2.0.tgz#66eeb86429aafac8c1745a70f44ace185aacb943"
+  integrity sha512-B0XNlotl1rdsvFZkFfoa19mc634+rrd8E4Sskb92Bb8MmSXeWV9XJGUyctunZS1W410uAxcyYuPUGVnbcOH8cg==
   dependencies:
     mkdirp "^1.0.4"
     strip-ansi "^6.0.1"
